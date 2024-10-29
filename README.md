@@ -1,12 +1,11 @@
-HEALTHCARE CHATBOT
-
+# HealthCare Chatbot
 A comprehensive healthcare chatbot designed to facilitate preliminary medical diagnostics with an intuitive, secure, and user-friendly interface.
 
-OVERVIEW:
+# Overview
 
 This application leverages machine learning and a graphical user interface (GUI) to allow users to enter symptoms and receive preliminary health insights. Using a Random Forest classifier trained on medical data, the chatbot provides potential condition predictions, offering users valuable initial guidance on their symptoms.
 
-KEY FEATURES:
+# Key Features
 
 Interactive GUI: Developed with tkinter, the application offers an easy-to-navigate, visually appealing interface for smooth user interactions.
 Secure Authentication: Implements a robust login and registration system with stringent password validation to safeguard user data and privacy.
@@ -16,17 +15,17 @@ Data Processing: Utilizes pandas for efficient data handling and numpy for compl
 Modular Architecture: Organized in a class-based structure, enabling easy maintenance, scalability, and integration of future features.
 Session Management: Includes an "End Chat" feature for smooth session termination and preparation for new user interactions.
 
-TECHNICAL HIGHLIGHTS:
+# Technical Highlights
 
 Preprocessing: Data is preprocessed through label encoding and feature extraction to enhance model accuracy.
 ML Model: Employs Random Forest for its high accuracy and reliability in classification tasks, making it suitable for medical data analysis.
 Error Handling: Includes robust error handling and user input validation for improved security and reliability.
 
-KEYWORDS:
+# Keywords
 
 Python, Machine Learning, Natural Language Processing, Tkinter, Healthcare Chatbot, Random Forest, Data Privacy.
 
-SYSTEM REQUIREMENTS:
+# System Requeirments
 
 Hardware Requirements:
 
@@ -47,6 +46,6 @@ Software Requirements:
 •	Web Server: Not applicable (local application)
 •	Browser: Not applicable (local application)
 
-NOTE:
+# Note
 Create a file named "user.txt" in which all the registrations will be saved.
 
