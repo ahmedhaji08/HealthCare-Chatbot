@@ -1,4 +1,4 @@
-![1684](https://github.com/user-attachments/assets/7d29579a-1420-460e-8521-1d79c3eb79b6)
+
 HEALTHCARE CHATBOT
 
 A comprehensive healthcare chatbot designed to facilitate preliminary medical diagnostics with an intuitive, secure, and user-friendly interface.
@@ -31,8 +31,8 @@ SYSTEM REQUIREMENTS:
 
 Hardware Requirements:
 
-• Device: Laptop / Desktop / Android Mobile
-•	Operating System: Any Operating System – WINDOWS 2010
+• Device: Laptop / Desktop / Android Mobile.
+•	Operating System: Any Operating System – WINDOWS 2010.
 •	Processor: Intel Core i5 7th Gen 2.50GHz
 •	RAM: 8GB
 •	Hard Disk: 50 GB
