@@ -28,8 +28,9 @@ Python, Machine Learning, Natural Language Processing, Tkinter, Healthcare Chatb
 
 SYSTEM REQUIREMENTS:
 
-Hardware Requirements
-•       Device: Laptop / Desktop / Android Mobile
+Hardware Requirements:
+
+• Device: Laptop / Desktop / Android Mobile
 •	Operating System: Any Operating System – WINDOWS 2010
 •	Processor: Intel Core i5 7th Gen 2.50GHz
 •	RAM: 8GB
@@ -37,7 +38,8 @@ Hardware Requirements
 •	Monitor: Any compatible display
 •	Display Type: Any compatible display type
 
-Software Requirements
+Software Requirements:
+
 •	Operating System: Windows, Linux
 •	Programming Language: Python
 •	DataBase: None (using file-based storage for simplicity)
