@@ -1,5 +1,4 @@
-
-*HEALTHCARE CHATBOT*
+HEALTHCARE CHATBOT
 
 A comprehensive healthcare chatbot designed to facilitate preliminary medical diagnostics with an intuitive, secure, and user-friendly interface.
 
